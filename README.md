@@ -36,9 +36,9 @@ This project is a website for a sport center. The website has a home page, a pag
 
 ## Screenshots
 ### Desktop Page
-![Dekstop Page](./images/Masaüstü_Görünüm.png)
+![Dekstop Page](./images/Masaüstü%20Görünüm.png)
 ### Mobile Page
-![Mobile Page](./images/Mobil_Görünüm.png)
+![Mobile Page](./images/Mobil%20Görünüm.png)
 
 #### Developer: [Ali Osman UYSAL](https://www.linkedin.com/in/aliosmanuysal/)
 
