@@ -9,8 +9,8 @@ This project is a website for a sport center. The website has a home page, a pag
 - JavaScript
 - Bootstrap
 - Google Fonts
+- Google Maps API
 - Visual Studio Code
-- GitHub
 
 ### Live Site
 [![GitHub Logo](./images/github.svg)](https://sportcenter-wine.vercel.app/)
